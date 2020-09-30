@@ -9,6 +9,6 @@ s = "malayalam"
 ans = isPalindrome(s)
 
 if ans:
-	print("Yes")
+	print("YES IT IS A PALINDROME")
 else:
-	print("No")
+	print("NO IT IS NOT PALINDROME")
