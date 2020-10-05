@@ -1,5 +1,5 @@
 # function which return reverse of a string
-
+import numpy
 def isPalindrome(s):
 	return s == s[::-1]
 
